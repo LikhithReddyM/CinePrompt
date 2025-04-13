@@ -1,0 +1,19 @@
+[
+    {
+        "username": "Raj",
+        "prompt": "Now, suggest a women empowered movie",
+        "timestamp": "2025-04-13T05:01:06.196Z",
+        "genres": [
+            "Action",
+            "Drama",
+            "Comedy"
+        ],
+        "favMovies": [
+            "scscbjs"
+        ],
+        "worstMovies": [
+            "chbj"
+        ],
+        "era": "middle"
+    }
+]

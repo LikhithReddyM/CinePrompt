@@ -1,0 +1,47 @@
+<!-- This file is just for verifying funcionality to check the submissions in json format-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Submitted CinePrompt Entries</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #121212;
+      color: white;
+      padding: 30px;
+    }
+    .entry {
+      background: #1e1e1e;
+      margin: 20px 0;
+      padding: 20px;
+      border-radius: 10px;
+      border-left: 5px solid #f04e30;
+    }
+    h2 {
+      color: #f04e30;
+    }
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+  </style>
+</head>
+<body>
+  <h1>CinePrompt Submissions</h1>
+
+  {% for submission in submissions %}
+  <div class="entry">
+    <h2>{{ loop.index }}. Prompt</h2>
+    <p><strong>Text:</strong> {{ submission.prompt }}</p>
+    <p><strong>Genres:</strong> {{ submission.genres | join(', ') }}</p>
+    <p><strong>Favorite Movies:</strong> {{ submission.favMovies | join(', ') }}</p>
+    <p><strong>Worst Movies:</strong> {{ submission.worstMovies | join(', ') }}</p>
+    <p><strong>Preferred Era:</strong> {{ submission.era }}</p>
+    <p><em>Submitted on {{ submission.timestamp }}</em></p>
+  </div>
+  {% else %}
+  <p>No submissions yet.</p>
+  {% endfor %}
+</body>
+</html>
