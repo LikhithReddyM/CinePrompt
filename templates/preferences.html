@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Customize Preferences</title>
+  <script defer src="{{ url_for('static', filename='preferences.js') }}"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <!-- User name from home page -->
+    <h2>Customize Your Preferences</h2>
+    <input type="hidden" id="usernameInput" value="{{ username }}">
+
+    <!-- Selecting fields for personalization -->
+     <!-- Further need to be added -->
+    <h3>Select Your Favorite Genres:</h3>
+    <div class="checkbox-group">
+      <label><input type="checkbox" name="genre" value="Action"> Action</label>
+      <label><input type="checkbox" name="genre" value="Drama"> Drama</label>
+      <label><input type="checkbox" name="genre" value="Comedy"> Comedy</label>
+      <label><input type="checkbox" name="genre" value="Sci-Fi"> Sci-Fi</label>
+      <label><input type="checkbox" name="genre" value="Horror"> Horror</label>
+      <label><input type="checkbox" name="genre" value="Romance"> Romance</label>
+      <label><input type="checkbox" name="genre" value="Thriller"> Thriller</label>
+      <label><input type="checkbox" name="genre" value="Fantasy"> Fantasy</label>
+      <label><input type="checkbox" name="genre" value="Adventure"> Adventure</label>
+      <label><input type="checkbox" name="genre" value="Animation"> Animation</label>
+      <label><input type="checkbox" name="genre" value="Documentary"> Documentary</label>
+      <label><input type="checkbox" name="genre" value="Mystery"> Mystery</label>
+      <label><input type="checkbox" name="genre" value="Crime"> Crime</label>
+      <label><input type="checkbox" name="genre" value="Family"> Family</label>
+      <label><input type="checkbox" name="genre" value="War"> War</label>
+      <label><input type="checkbox" name="genre" value="Sport"> Sport</label>
+      <label><input type="checkbox" name="genre" value="History"> History</label>
+    </div>
+
+    <h3>Top 5 Favorite Movies:</h3>
+    <div class="input-list">
+      <input type="text" name="favMovie1" placeholder="Favorite Movie 1">
+      <input type="text" name="favMovie2" placeholder="Favorite Movie 2">
+      <input type="text" name="favMovie3" placeholder="Favorite Movie 3">
+      <input type="text" name="favMovie4" placeholder="Favorite Movie 4">
+      <input type="text" name="favMovie5" placeholder="Favorite Movie 5">
+    </div>
+
+    <h3>Top 5 Worst Movies:</h3>
+    <div class="input-list">
+      <input type="text" name="worstMovie1" placeholder="Worst Movie 1">
+      <input type="text" name="worstMovie2" placeholder="Worst Movie 2">
+      <input type="text" name="worstMovie3" placeholder="Worst Movie 3">
+      <input type="text" name="worstMovie4" placeholder="Worst Movie 4">
+      <input type="text" name="worstMovie5" placeholder="Worst Movie 5">
+    </div>
+
+    <h3>Preferred Movie Eras:</h3>
+    <label><input type="radio" name="era" value="old"> Old</label>
+    <label><input type="radio" name="era" value="middle"> Middle</label>
+    <label><input type="radio" name="era" value="new"> New</label>
+
+    <div style="margin-top: 20px;">
+      <button id="savePreferences">Save</button>
+      <button onclick="window.location.href='/'"> Back to Home</button>
+    </div>
+  </div>
+</body>
+</html>
