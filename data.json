@@ -15,5 +15,60 @@
             "chbj"
         ],
         "era": "middle"
+    },
+    {
+        "username": "Jane Doe",
+        "timestamp": "2025-04-14T06:30:28.954Z",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Adventure",
+            "Documentary"
+        ],
+        "favMovies": [
+            {
+                "title": "m1",
+                "rating": 5
+            },
+            {
+                "title": "m2",
+                "rating": 5
+            },
+            {
+                "title": "m3",
+                "rating": 5
+            },
+            {
+                "title": "m4",
+                "rating": 4
+            },
+            {
+                "title": "m5",
+                "rating": 4
+            }
+        ],
+        "worstMovies": [
+            {
+                "title": "mA",
+                "rating": 1
+            },
+            {
+                "title": "mB",
+                "rating": 1
+            },
+            {
+                "title": "mC",
+                "rating": 1
+            },
+            {
+                "title": "mD",
+                "rating": 2
+            },
+            {
+                "title": "mE",
+                "rating": 2
+            }
+        ],
+        "era": "new"
     }
 ]

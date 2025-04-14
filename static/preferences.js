@@ -2,17 +2,34 @@
 // when the user clicks the "Save Preferences" button. It also handles errors and shows success messages.
 document.addEventListener("DOMContentLoaded", () => {
     const username = document.getElementById("usernameInput").value;
+
+    const getMoviesWithRatings = (type) => {
+      return Array.from({ length: 5 }, (_, i) => {
+        const movieName = document.querySelector(`input[name="${type}${i + 1}"]`)?.value.trim();
+        const rating = document.querySelector(`input[name="${type}${i + 1}Rating"]:checked`)?.value;
+  
+        if (movieName) {
+          return {
+            title: movieName,
+            rating: rating ? parseInt(rating) : null
+          };
+        }
+  
+        return null;
+      }).filter(Boolean);
+    };
   
     document.getElementById("savePreferences").addEventListener("click", () => {
       const genres = [...document.querySelectorAll('input[name="genre"]:checked')].map(input => input.value);
-      const favMovies = [1, 2, 3].map(i => document.querySelector(`input[name="favMovie${i}\"]`)?.value.trim()).filter(Boolean);
-      const worstMovies = [1, 2, 3].map(i => document.querySelector(`input[name="worstMovie${i}\"]`)?.value.trim()).filter(Boolean);
+      const favMovies = getMoviesWithRatings("favMovie");     // updated line
+      const worstMovies = getMoviesWithRatings("worstMovie"); // updated line
       const era = document.querySelector('input[name="era"]:checked')?.value || '';
   
       const data = {
         username,
         timestamp: new Date().toISOString()
       };
+  
       if (genres.length) data.genres = genres;
       if (favMovies.length) data.favMovies = favMovies;
       if (worstMovies.length) data.worstMovies = worstMovies;
