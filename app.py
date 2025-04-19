@@ -5,7 +5,7 @@ import os, json, openai, logging
 # ---------- Configuration ----------
 
 load_dotenv()
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "YOUR_API_KEY"
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 app       = Flask(__name__)
