@@ -1,62 +1,75 @@
 from flask import Flask, render_template, request, jsonify
-import json
-import os
+from dotenv import load_dotenv
+import os, json, openai, logging
 
-app = Flask(__name__)
+# ---------- Configuration ----------
 
-DATA_FILE = 'data.json'
+load_dotenv()
+OPENAI_API_KEY = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def load_data(): #load data from json file
-    if not os.path.exists(DATA_FILE) or os.path.getsize(DATA_FILE) == 0:
-        with open(DATA_FILE, 'w') as f:
-            json.dump([], f)
-    with open(DATA_FILE, 'r') as f:
-        return json.load(f)
+app       = Flask(__name__)
+DATA_FILE = "data.json"
+logging.basicConfig(level=logging.INFO)
 
-def save_data(entry): #save data to json file
+# ---------- Data helpers ----------
+def load_data():
+    if not os.path.exists(DATA_FILE) or os.path.getsize(DATA_FILE)==0:
+        with open(DATA_FILE,"w") as f: json.dump([],f)
+    with open(DATA_FILE) as f: return json.load(f)
+
+def save_or_update(record):
     data = load_data()
-    username = entry.get("username")
+    user = next((u for u in data if u["username"]==record["username"]), None)
+    if user: user.update({k:v for k,v in record.items() if k!="username"})
+    else:    data.append(record)
+    with open(DATA_FILE,"w") as f: json.dump(data,f,indent=4)
 
-    if not username: # No user name
-        return
-    existing_user = next((user for user in data if user.get("username") == username), None)
+# ---------- GPT helper ----------
+def top5_movies(prompt: str) -> str:
+    """Return a newline‑separated list of 5 movie recommendations."""
+    q = (f"Suggest exactly five movie titles for this user prompt. "
+         f"Return each title on its own line, nothing else.\n\nUser prompt: {prompt}")
+    resp = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=[{"role":"user","content": q}],
+        temperature=0.7
+    )
+    return resp["choices"][0]["message"]["content"].strip()
 
-    if existing_user: # existing user
-        for key, value in entry.items():
-            if key != "username":
-                existing_user[key] = value
-    else:
-        # First-time user
-        data.append(entry)
+# ---------- Routes ----------
+@app.route("/")
+def home(): return render_template("index.html")
 
-    with open(DATA_FILE, 'w') as f:
-        json.dump(data, f, indent=4)
+@app.route("/preferences/<username>")
+def preferences(username): return render_template("preferences.html",
+                                                 username=username)
 
-@app.route('/')
-def home(): # home page
-    return render_template('index.html')
-
-@app.route('/preferences/<username>') 
-def preferences(username): # preferences page
-    return render_template('preferences.html', username=username)
-
-@app.route('/submit-preferences', methods=['POST'])
-def submit_preferences(): # submit preferences
+@app.route("/submit-preferences", methods=["POST"])
+def submit_preferences():
     try:
-        user_data = request.get_json()
-        if not user_data.get("username"): # No user name
-            return jsonify({'status': 'fail', 'message': 'Username is required'}), 400
+        p = request.get_json(force=True)
+        username = p.get("username","").strip()
+        if not username:
+            return jsonify(status="fail", message="Username required"), 400
 
-        save_data(user_data)
-        return jsonify({'status': 'success', 'message': 'Preferences saved successfully'})
+        prompt = p.get("prompt","").strip() or "Give me five great movies."
+        suggestions = top5_movies(prompt)
+
+        record = {**p, "suggestions": suggestions}
+        save_or_update(record)
+
+        return jsonify(status="success",
+                       message="Saved.",
+                       suggestions=suggestions)
+
     except Exception as e:
-        print("Error in submit-preferences route:", e)
-        return jsonify({'status': 'error', 'message': str(e)}), 500
+        app.logger.error("submit-preferences error: %s", e)
+        return jsonify(status="error", message=str(e)), 500
 
-@app.route('/submissions')
-def view_submissions(): # view submissions page
-    data = load_data()
-    return render_template('submissions.html', submissions=data)
+@app.route("/submissions")
+def submissions(): return render_template("submissions.html",
+                                          submissions=load_data())
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run(debug=True)

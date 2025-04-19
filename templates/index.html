@@ -6,28 +6,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CinePrompt</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-  <!-- <script defer src="cineprompt.js"></script> -->
-  <script src="{{ url_for('static', filename='cineprompt.js') }}"></script>
+  <!-- <script src="{{ url_for('static', filename='cineprompt.js') }}"></script> -->
 </head>
 <body>
   <div class="container">
-    <h1>Welcome to 🎬 CinePrompt</h1>
-    <p>Your movie intuition starts here.</p>
-    <!-- User name input mandatory -->
-    <input type="text" id="usernameInput" placeholder="Enter your name" required>
-    <!-- Prompt input -->
-    <textarea id="promptInput" placeholder="Type your movie idea or prompt here..."></textarea>
-    <div class="button-row">
-      <button id="submitPrompt">Submit</button>
-      <!-- setting preferences -->
-      <button id="goToPreferences">Customize Preferences</button>
+      <div id="formSection">
+      <h1>Welcome to 🎬 CinePrompt</h1>
+      <p>Your movie intuition starts here.</p>
+      <!-- User name input mandatory -->
+      <input type="text" id="usernameInput" placeholder="Enter your name" required>
+      <!-- Prompt input -->
+      <textarea id="promptInput" placeholder="Type your movie idea or prompt here..."></textarea>
+      <div class="button-row">
+        <button id="submitPrompt">Submit</button>
+        <!-- setting preferences -->
+        <button id="goToPreferences">Customize Preferences</button>
     </div>
+  </div>
 
     <div id="successSection" class="hidden">
       <!-- Success message which needs to be replaced by back-end suggested movies -->
-      <p class="success-message">Awesome!! 🎉</p>
+      <p class="success-message" id="suggestionsBox">Awesome!! 🎉</p>
       <button id="goBackBtn"> Go Back</button>
-    </div> 
+    </div>
   </div>
+  <script defer src="{{ url_for('static', filename='cineprompt.js') }}"></script>
 </body>
 </html>
