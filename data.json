@@ -15,5 +15,1195 @@
             "chbj"
         ],
         "era": "middle"
+    },
+    {
+        "username": "Gauri",
+        "timestamp": "2025-04-19T00:27:18.985Z",
+        "prompt": "Suggest romcom latest movies"
+    },
+    {
+        "username": "Likhith",
+        "prompt": "show me funny movies",
+        "timestamp": "2025-04-20T05:49:11.576Z",
+        "suggestions": "The Shawshank Redemption (278)\nThe Godfather (238)\nInception (27205)\nThe Dark Knight (155)\nSchindler's List (424)",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi",
+            "Thriller",
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Mystery",
+            "Crime",
+            "Family"
+        ],
+        "favMovies": [
+            "Inception",
+            "Pulp Fiction",
+            "Iron Man"
+        ],
+        "era": "middle"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "Give me funny movies",
+        "suggestions": "Kevin Hart: Seriously Funny (3)\nFunny People (9)\nPatton Oswalt: Tragedy Plus Comedy Equals Time (11)\nCan We Take a Joke? (12)\nThis Isn't Funny (13)\nThe Comedians of Comedy (14)\nRobin Williams: A Night at the Met (28)\nJimmy Carr: Funny Business (41)",
+        "timestamp": "2025-04-20T01:44:58.520809"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "Give me sci-fi comedy movies with space exploration",
+        "suggestions": "Galaxy Quest (1)\nSpace Station 76 (2)\nMars Attacks! (3)\nMuppets from Space (4)\nBabylon 5: Thirdspace (5)\nEvolution (6)\nSpaced Invaders (7)\n2001: A Space Travesty (8)",
+        "timestamp": "2025-04-20T01:46:16.405943"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "Give me light hearted romantic comedy movies",
+        "suggestions": "1. 10 Things I Hate About You (197)\n2. Crazy, Stupid, Love (27205)\n3. Bridget Jones's Diary (1584)\n4. How to Lose a Guy in 10 Days (389)\n5. The Proposal (8681)\n6. Silver Linings Playbook (82693)\n7. Notting Hill (107)\n8. The Holiday (7551)\n9. 13 Going on 30 (1930)\n10. Love Actually (508)",
+        "timestamp": "2025-04-21T15:55:58.144373"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "Give me movie recommendations based on my preferences",
+        "suggestions": "I'm sorry, but I need more information about your preferences in order to generate relevant movie recommendations for you. Can you please provide me with details on genres, themes, plot elements, emotions, time periods, cast, or any other relevant characteristics that you enjoy in movies?",
+        "timestamp": "2025-04-21T16:13:02.548062"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "sci-fi space movies",
+        "suggestions": "Interstellar (157336)\n2001: A Space Odyssey (62)\nBlade Runner (78)\nArrival (329865)\nGuardians of the Galaxy (118340)\nThe Martian (286217)\nStar Wars: Episode IV - A New Hope (11)\nAlien (348)\nGravity (49047)\nAvatar (19995)",
+        "timestamp": "2025-04-21T16:13:40.171931"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "sci-fi space movies",
+        "suggestions": "1. Interstellar (157336)\n2. Star Wars: Episode IV - A New Hope (11)\n3. Guardians of the Galaxy (118340)\n4. The Martian (286217)\n5. Avatar (19995)\n6. Blade Runner 2049 (335984)\n7. Arrival (329865)\n8. Gravity (49047)\n9. Alien (348)\n10. The Fifth Element (18)",
+        "timestamp": "2025-04-21T16:24:09.475689"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "Give me movie recommendations based on my preferences",
+        "suggestions": "Unfortunately, no movie information was provided to generate recommendations.",
+        "timestamp": "2025-04-21T16:45:52.567471"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "Give me movie recommendations based on my preferences",
+        "suggestions": "Since no specific preferences were provided, here are 10 popular movies across various genres and themes:\n\n1. The Shawshank Redemption (278)\n2. The Godfather (238)\n3. Inception (27205)\n4. Pulp Fiction (680)\n5. Forrest Gump (13)\n6. The Dark Knight (155)\n7. Fight Club (550)\n8. The Matrix (603)\n9. Goodfellas (769)\n10. Schindler's List (424)",
+        "timestamp": "2025-04-21T16:47:41.507313"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "scifi space movies",
+        "suggestions": "Interstellar\n2001: A Space Odyssey\nAlien\nBlade Runner\nStar Wars\nGuardians of the Galaxy\nThe Martian\nArrival\nAvatar\nGravity",
+        "timestamp": "2025-04-21T17:01:12.234162"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "space sci fi film",
+        "suggestions": "2001: A Space Odyssey\nBlade Runner\nInterstellar\nAlien\nGravity\nStar Wars\nThe Martian\nAvatar\nArrival\nGuardians of the Galaxy",
+        "timestamp": "2025-04-21T17:06:27.547924"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "space sci fi",
+        "suggestions": "Interstellar\nGravity\nArrival\n2001: A Space Odyssey\nBlade Runner\nThe Martian\nAlien\nStar Wars: Episode IV - A New Hope\nGuardians of the Galaxy\nAvatar",
+        "timestamp": "2025-04-21T17:14:55.766857"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "funny",
+        "suggestions": "1. Superbad\n2. Anchorman: The Legend of Ron Burgundy\n3. The Hangover\n4. Bridesmaids\n5. Dumb and Dumber\n6. The 40-Year-Old Virgin\n7. Step Brothers\n8. Mean Girls\n9. Tropic Thunder\n10. Borat",
+        "timestamp": "2025-04-21T17:17:00.668751"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "funny",
+        "suggestions": "1. Superbad\n2. Step Brothers\n3. Anchorman: The Legend of Ron Burgundy\n4. Bridesmaids\n5. The Hangover\n6. Mean Girls\n7. 21 Jump Street\n8. The Other Guys\n9. Tropic Thunder\n10. Zoolander",
+        "timestamp": "2025-04-21T17:22:23.949349"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "funny",
+        "suggestions": "1. Superbad\n2. The Hangover\n3. Bridesmaids\n4. Anchorman: The Legend of Ron Burgundy\n5. Step Brothers\n6. 21 Jump Street\n7. Mean Girls\n8. The Other Guys\n9. Tropic Thunder\n10. Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "timestamp": "2025-04-21T19:08:27.322634"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "funny",
+        "suggestions": "1. Superbad\n2. Step Brothers\n3. Anchorman: The Legend of Ron Burgundy\n4. Bridesmaids\n5. The Hangover\n6. 21 Jump Street\n7. Borat\n8. Mean Girls\n9. Tropic Thunder\n10. The 40-Year-Old Virgin",
+        "timestamp": "2025-04-21T19:11:30.853738"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "funny",
+        "suggestions": "The Original Kings of Comedy, 123460\nThe Comedians of Comedy, 123461\nJimmy Carr: Being Funny, 123463\nJim Norton: American Degenerate, 123462\nJay Mohr: Funny for a Girl, 123459",
+        "timestamp": "2025-04-22T00:50:06.556535"
+    },
+    {
+        "username": "mani",
+        "prompt": "funny films",
+        "suggestions": "Mel Brooks: Live at the Geffen, 322785\nJim Norton: American Degenerate, 216553\nExtreme Movie, 15544\nThe Seven Year Itch, 10653\nAll About Steve, 23706\nThe Comedian, 137072\nL for Leisure, 247777",
+        "timestamp": "2025-04-22T01:00:15.054158"
+    },
+    {
+        "username": "mani",
+        "prompt": "funny films",
+        "suggestions": "Daniel Tosh: Completely Serious, 108176, https://image.tmdb.org/t/p/w1280/A8hORrTjBHCkCyUZ9p1MKleMzlc.jpg\nThe Comedians of Comedy: Live at The Troubadour, 21671, https://image.tmdb.org/t/p/w1280/vM3OxgCn78Lipbk8maAcBNuRddU.jpg\nJimmy Carr: Live, 18597, https://image.tmdb.org/t/p/w1280/14TuUMEvUWvN0IyszfeKY9J3PLK.jpg\nPatton Oswalt: Tragedy Plus Comedy Equals Time, 251016, https://image.tmdb.org/t/p/w1280/dc2CECT1fBY2ehHq3OnxrNXF37c.jpg\nThe Seven Year Itch, 10653, https://image.tmdb.org/t/p/w1280/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg",
+        "timestamp": "2025-04-22T01:23:03.380167"
+    },
+    {
+        "username": "mani",
+        "prompt": "funny films",
+        "suggestions": [
+            {
+                "title": "Mel Brooks: Live at the Geffen",
+                "release_date": "2015-01-31",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/2Q4wJvplzCVBObrwAqp2TpXwabr.jpg"
+            },
+            {
+                "title": "The Comedians of Comedy: Live at The Troubadour",
+                "release_date": "2007-09-18",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/vM3OxgCn78Lipbk8maAcBNuRddU.jpg"
+            },
+            {
+                "title": "Jimmy Carr: Being Funny",
+                "release_date": "2011-11-21",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/PBf9flyZkkWDUFnFLfMII6YQFt.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T01:29:23.347570"
+    },
+    {
+        "username": "mani",
+        "prompt": "toy story",
+        "suggestions": [
+            {
+                "title": "The Toy",
+                "release_date": "1982-12-10",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/qLQeHeB5kszXxKNqtrOvmfNVD69.jpg"
+            },
+            {
+                "title": "Toy Story That Time Forgot",
+                "release_date": "2014-12-02",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/aGDVBwpxlA95mn7yTxwM8r0oTR0.jpg"
+            },
+            {
+                "title": "Winnie-the-Pooh",
+                "release_date": "1969-01-01",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/5eIeWYJPgJih1iSV1B8OcEiLulM.jpg"
+            },
+            {
+                "title": "The Nutcracker Prince",
+                "release_date": "1990-01-01",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/rllF1TP8bn4xsq4Wp4CEshBfGDh.jpg"
+            },
+            {
+                "title": "Pee-Wee's Playhouse Christmas Special",
+                "release_date": "1988-12-25",
+                "poster_path": "https://image.tmdb.org/t/p/w1280/bN6gDpGbeuE2Ald3JuiUQ47aYev.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T01:34:12.444511"
+    },
+    {
+        "username": "mani",
+        "prompt": "funny films",
+        "suggestions": "The Seven Year Itch\nThe Movies\nThou Shalt Laugh\nCharlie: The Life and Art of Charles Chaplin\nJay Mohr: Funny for a Girl",
+        "timestamp": "2025-04-22T01:45:20.288299"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "toy story 2",
+        "suggestions": "Empire of Dreams: The Story of the Star Wars Trilogy, 2004-09-12\nFrank and Ollie, 1995-10-20\nAlice's Wonderland, 1923-01-01",
+        "timestamp": "2025-04-22T01:49:03.116109"
+    },
+    {
+        "username": "mani",
+        "prompt": "funny films",
+        "suggestions": "Extreme Movie, 2008-12-05 - A sketch comedy movie about the joys and embarrassments of teen sex. But mostly the embarrassments.\n\nJay Mohr: Funny for a Girl, 2012-09-08 - Jay Mohr's newest one hour special, and the first in over 7 years, is a hilarious set of stories of the challenges of raising two kids, keeping his family on the right path, along with his legendary impressions (Christopher Walken, Norm MacDonald, Adam Sandler and a host of others) and riotous real life Hollywood stories.\n\nJimmy Carr: Live, 2004-11-08 - With his first ever DVD, Jimmy\u2019s unique brand of humour demonstrates the observations he makes on life\u2019s taboos using witty one-liners and offensive putdowns. Recorded during the acclaimed comedian\u2019s sell out shows at London\u2019s Bloomsbury theatre.\n\nNantucket Film Festival's Comedy Roundtable, 2012-09-27 - In June at the Nantucket Film Festival, Ben Stiller brought together three of his funniest famous friends to talk seriously about comedy. Chris Rock and Jim Carrey joined Stiller on a panel moderated by Saturday Night Live\u2018s Bill Hader for the 4th Annual All-Star Comedy Roundtable.\n\nThe Seven Year Itch, 1955-06-01 - With his family away for their annual summer holiday, Richard Sherman decides he has the opportunity to live a bachelor's life. The beautiful but ditzy blonde from the apartment above catches his eye and they soon start spending time together - maybe a little too much time!",
+        "timestamp": "2025-04-22T01:54:11.712201"
+    },
+    {
+        "username": "mani",
+        "prompt": "funny films",
+        "suggestions": "Just Like Us, 2011-10-06 - The director takes us on a hilarious tour from Dubai to Beirut, Riyadh to New York with a gaggle of other stand-up talent. Along the way, taboos of culture and geopolitics are exploded, and a younger generation of both comedy talents and audiences is born.\n\nMovie Movie, 1978-11-01 - Three movie genres of the 1930s, boxing films, WWI aviation dramas, and backstage Broadway musicals, are satirized using the same cast.\n\nInAPPropriate Comedy, 2013-03-22 - A no-nonsense cop has a flair for fashion and a celebrity takes revenge on the paparazzi in a collection of comedic sketches.\n\nThe Comedian, 2013-05-31 - Set in the immediate and random background of today\u2019s London. THE COMEDIAN is a fresh, dramatic and funny debut feature about choices and how not to make them.\n\nKatt Williams: American Hustle, 2007-01-01 - Stand-up comedian Katt Williams stars in this feature-length comedy. The film follows Katt as he takes a trip to Hollywood, where he hopes to break into the movie industry. But Katt's dreams lie in tatters when he is cast in increasingly ridiculous and stereotyped roles, so he remembers where his real loyalties lie, and sets off on a stand-up comedy road trip.\n\nMel Brooks: Live at the Geffen, 2015-01-31 - Mel Brooks is one of the funniest voices in American comedy. Now, the entertainment legend dons a tux and takes the stage for a memorable one-man show filled with jokes, songs and hilarious anecdotes.\n\nCharlie: The Life and Art of Charles Chaplin, 2003-05-01 - Brilliant, long in-the-works story of the life and art of the world's greatest comedian and the cinema's first genius, Charlie Chaplin. Produced, written and directed by renowned film critic Richard Schickel.\n\nAll About Steve, 2009-09-04 - After one short date, a brilliant crossword constructor decides that a CNN cameraman is her true love. Because the cameraman's job takes him hither and yon, she crisscrosses the country, turning up at media events as she tries to convince him they are perfect for each other.\n\nThe Seven Year Itch, 1955-06-01 - With his family away for their annual summer holiday, Richard Sherman decides he has the opportunity to live a bachelor's life. The beautiful but ditzy blonde from the apartment above catches his eye and they soon start spending time together - maybe a little too much time!",
+        "timestamp": "2025-04-22T01:57:15.423436"
+    },
+    {
+        "username": "mani",
+        "prompt": "funny films",
+        "suggestions": "Rang Birangi, 1983-04-23 - Sparkling comedy about a meddling friend whose attempt to rekindle the spark in his friend's relationship with his wife of seven years leads to complications to their lives, and to the lives of his secretary and her boyfriend he has not 'scripted' ... Splendid performances by Amol Palekar, Deepti Naval, Parveen Babi and Farooq Shaikh, a perfectly pitched script, witty dialogue and a plethora of aptly placed film references make this a film one can watch over and over and never fail to laugh out loud.\n\nThe Seven Year Itch, 1955-06-01 - With his family away for their annual summer holiday, Richard Sherman decides he has the opportunity to live a bachelor's life. The beautiful but ditzy blonde from the apartment above catches his eye and they soon start spending time together - maybe a little too much time!\n\nSex Is Comedy, 2002-06-05 - A director struggles with a difficult sex scene between a young actor and actress who can't stand one another. Aided by her loyal assistant, she is hell-bent on getting the scene right without compromise.\n\nMel Brooks: Live at the Geffen, 2015-01-31 - Mel Brooks is one of the funniest voices in American comedy. Now, the entertainment legend dons a tux and takes the stage for a memorable one-man show filled with jokes, songs and hilarious anecdotes.\n\nMovie Movie, 1978-11-01 - Three movie genres of the 1930s, boxing films, WWI aviation dramas, and backstage Broadway musicals, are satirized using the same cast.\n\nExtreme Movie, 2008-12-05 - A sketch comedy movie about the joys and embarrassments of teen sex. But mostly the embarrassments.",
+        "timestamp": "2025-04-22T02:01:23.162298"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "funny films",
+        "suggestions": "A Funny Man, 2011-08-25, N/A - Uncovering the loneliness of comedian Dirch Passer as he struggles between gaining critical respect and servicing the audience's needs, leading to comedic situations.\nMovie Movie, 1978-11-01, N/A - Satirizing three 1930s movie genres with the same cast, providing humorous takes on boxing films, WWI aviation dramas, and backstage Broadway musicals.\nAll About Steve, 2009-09-04, N/A - A crossword constructor convinces herself a CNN cameraman is her true love, leading to comedic cross-country adventures in pursuit of their perfect relationship.\nWomen Aren't Funny, 2014-08-29, N/A - Comedian Bonnie McFarlane investigates the age-old question of whether women are funny, resulting in a humorous and enlightening documentary journey.\nNantucket Film Festival's Comedy Roundtable, 2012-09-27, N/A - Ben Stiller, Chris Rock, Jim Carrey, and Bill Hader discuss comedy seriously in a panel, offering a lighthearted look at the art of humor.\nJay Mohr: Funny for a Girl, 2012-09-08, N/A - Jay Mohr's hilarious one-hour special delves into the challenges of raising kids, family life, and legendary impressions, providing a comedic look at real Hollywood stories.\nSex Is Comedy, 2002-06-05, N/A - A director faces challenges in filming a difficult sex scene between two actors who can't stand each other, leading to comedic situations in pursuit of perfection.\nTalking Funny, 2011-04-22, N/A - Top comedians Ricky Gervais, Louis C.K., Jerry Seinfeld, and Chris Rock discuss and debate the boundaries of comedy and what it means to be a successful comedian.\nThe Seven Year Itch, 1955-06-01, N/A - Richard Sherman's bachelor life takes a turn when a ditzy blonde neighbor catches his eye, leading to humorous escapades while his family is away.\nL for Leisure, 2014-01-24, N/A - A dreamy comedy following hedonistic students in the 1990s, filled with endless talking, dry dialogues, and ironic reflections, providing a lighthearted look at their vacation days.",
+        "timestamp": "2025-04-22T02:10:35.675092"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "sci-fi space films",
+        "suggestions": "ID: 365942, Title: The Space Between Us, Release Date: 2017-01-26 - Summary: A young man raised by scientists on Mars returns to Earth to find his father.\nID: 22559, Title: Aliens of the Deep, Release Date: 2005-01-21 - Summary: James Cameron teams up with NASA scientists to explore the Mid-Ocean Ridge, a submerged chain of mountains that band the Earth and are home to some of the planet's most unique life forms.\nID: 10941, Title: Babylon 5: Thirdspace, Release Date: 1998-07-19 - Summary: Susan Ivanova discovers a derelict spaceship in hyperspace. They tow it back to Babylon 5, then strange things start happening. People are being telepathically taken over by aliens from another (third)space.\nID: 60410, Title: Remote Control, Release Date: 1988-04-07 - Summary: A video store clerk stumbles onto an alien plot to take over earth by brainwashing people with a bad '50s science fiction movie. He and his friends race to stop the aliens before the tapes can be distributed world-wide.\nID: 222872, Title: Starquest II, Release Date: 1996-01-01 - Summary: Sci-fi thriller directed by Fred Gallo.\nID: 308063, Title: The Visit: An Alien Encounter, Release Date: 2015-01-26 - Summary: \u201cThis film documents an event that has never taken place\u2026\u201d With unprecedented access to the United Nations\u2019 Office for Outer Space Affairs, leading space scientists and space agencies, The Visit explores humans\u2019 first encounter with alien intelligent life and thereby humanity itself. \u201cOur scenario begins with the arrival. Your arrival.\u201d\nID: 30994, Title: Dogs in Space, Release Date: 1986-12-18 - Summary: The place is Melbourne, Australia 1978. The punk phenomenon is sweeping the country and Dogs In Space, a punk group, are part of it. In a squat, in a dodgy suburb, live a ragtag collection of outcasts and don't-wanna-be's who survive on a diet of old TV space films, drugs and good music. And the satellite SKYLAB could crash through their roof at any moment...\nID: 437122, Title: Third Guest, Release Date: 2016-08-30 - Summary: Sci-fi end of the world drama\nID: 289318, Title: Mars, Release Date: 1968-01-01 - Summary: Like the previous film Luna produced by Klushantsev, the film Mars was created at the intersection of educational science films and science-fiction. It consists of seven pieces, which tell (based on scientific understanding of the 1960s) of the physical conditions on planet Mars, the possibility of life on Mars and what forms it might take, of Martian canals and \"seas\" of the Red Planet. In addition, the film includes the director's fantasy hypothetical forms of life on mars, and of the exploration and colonization of Mars in the near future.\nID: 45514, Title: 8, Release Date: 2008-10-23 - Summary: 8 shorts centered around 8 themes directed by 8 famous film directors involved and sharing their opinion on progress, on the set-backs and the challenges our planet faces today.",
+        "timestamp": "2025-04-22T02:18:50.955264"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "sci-fi space films",
+        "suggestions": "ID: 11049, Title: Interstella 5555: The 5tory of the 5ecret 5tar 5ystem, Release Date: 2003-05-18 - Summary: A sci-fi anime House-musical movie collaboration between Daft Punk--and their music--and designer Leiji Matsumoto. During the recording of their DISCOVERY album and using the themes of sci-fi celebrity, decadence and space travel...\nID: 95758, Title: The Sci-Fi Boys, Release Date: 2006-04-27 - Summary: Legendary all-stars of cinema bring to life the evolution of science-fiction and special effects films from the wild and funny days of B-movies to blockbusters that have captured the world's imagination...\nID: 31280, Title: Fire Maidens of Outer Space, Release Date: 1956-07-01 - Summary: An astronaut and crew land on Jupiter's 13th moon and find a monster and women from Atlantis.\nID: 30994, Title: Dogs in Space, Release Date: 1986-12-18 - Summary: The place is Melbourne, Australia 1978. The punk phenomenon is sweeping the country and Dogs In Space, a punk group, are part of it...\nID: 86633, Title: The Alien Factor, Release Date: 1978-05-12 - Summary: A spaceship containing specimens for an intergalactic zoo crashes on Earth near a small backwoods town. The specimens escape, and soon town folk are turning up mutilated.\nID: 34202, Title: Intruders, Release Date: 1992-05-17 - Summary: All over the world, people report they've been visited by aliens, taken aboard spaceships and medically examined. The authorities appear to know all about these visits but won't acknowledge it publicly...\nID: 222872, Title: Starquest II, Release Date: 1996-01-01 - Summary: Sci-fi thriller directed by Fred Gallo.\nID: 325263, Title: Journey to Space, Release Date: 2015-02-13 - Summary: A sweeping overview of humanity\u2019s accomplishments in space, as well as our ongoing activities and future plans.\nID: 117036, Title: Synthetic Pleasures, Release Date: 1995-09-13 - Summary: Conceived as an electronic road movie, this documentary investigates cutting edge technologies and their influence on our culture as we approach the 21st century...",
+        "timestamp": "2025-04-22T02:21:21.148303"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "sci-fi space movies",
+        "suggestions": "ID: 686, Title: Contact, Release Date: 1997-07-11 - Summary: A science fiction film about an encounter with alien intelligence, where a scientist must make difficult decisions between her beliefs, the truth, and reality.\nID: 830, Title: Forbidden Planet, Release Date: 1956-03-15 - Summary: Captain Adams and his crew fly towards a mysterious planet in search of a missing spaceship, only to be surprised by what awaits them.",
+        "timestamp": "2025-04-22T02:23:40.255981"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "sci-fi space movies",
+        "suggestions": [
+            {
+                "id": 266314,
+                "title": "Space",
+                "release_date": "1985-04-13",
+                "summary": "A 13-hour mini-series detailing James A. Michner's fictional account of the American space program from the years after World War II to the Apollo landings on the moon in the early 1970's.",
+                "poster_url": "No poster found (API key missing)"
+            },
+            {
+                "id": 308063,
+                "title": "The Visit: An Alien Encounter",
+                "release_date": "2015-01-26",
+                "summary": "\u201cThis film documents an event that has never taken place\u2026\u201d With unprecedented access to the United Nations\u2019 Office for Outer Space Affairs, leading space scientists and space agencies, The Visit explores humans\u2019 first encounter with alien intelligent life and thereby humanity itself. \u201cOur scenario begins with the arrival. Your arrival.\u201d",
+                "poster_url": "No poster found (API key missing)"
+            },
+            {
+                "id": 830,
+                "title": "Forbidden Planet",
+                "release_date": "1956-03-15",
+                "summary": "Captain Adams and the crew of the Starship C57D fly towards planet Altair 4 in search for the Bellerphon spaceship that has been missing for twenty years. To their surprise they are already being expected. A classic science fiction film from 1957 starring Leslie Nielsen.",
+                "poster_url": "No poster found (API key missing)"
+            },
+            {
+                "id": 13475,
+                "title": "Star Trek",
+                "release_date": "2009-05-06",
+                "summary": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "poster_url": "No poster found (API key missing)"
+            },
+            {
+                "id": 686,
+                "title": "Contact",
+                "release_date": "1997-07-11",
+                "summary": "Contact is a science fiction film about an encounter with alien intelligence. Based on the novel by Carl Sagan the film starred Jodie Foster as the one chosen scientist who must make some difficult decisions between her beliefs, the truth, and reality.",
+                "poster_url": "No poster found (API key missing)"
+            },
+            {
+                "id": 846,
+                "title": "The X Files",
+                "release_date": "1998-06-19",
+                "summary": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+                "poster_url": "No poster found (API key missing)"
+            },
+            {
+                "id": 9663,
+                "title": "Starman",
+                "release_date": "1984-12-13",
+                "summary": "An alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona. The government tries to stop them.",
+                "poster_url": "No poster found (API key missing)"
+            },
+            {
+                "id": 9755,
+                "title": "Bloodsuckers",
+                "release_date": "2005-07-30",
+                "summary": "Intergalactic vampire hunters. \"B",
+                "poster_url": "No poster found (API key missing)"
+            }
+        ],
+        "timestamp": "2025-04-22T02:27:58.457284"
+    },
+    {
+        "username": "Likhith2",
+        "prompt": "sci-fi space movies",
+        "suggestions": [
+            {
+                "id": 830,
+                "title": "Forbidden Planet",
+                "release_date": "1956-03-15",
+                "summary": "Captain Adams and the crew of the Starship C57D fly towards planet Altair 4 in search for the Bellerphon spaceship that has been missing for twenty years. To their surprise they are already being expected. A classic science fiction film from 1957 starring Leslie Nielsen.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg"
+            },
+            {
+                "id": 61702,
+                "title": "12 to the Moon",
+                "release_date": "1960-06-10",
+                "summary": "A group of twelve international scientists are the first to land on the moon. In their exploration of the surface, they run into all kinds of trouble, including threatening messages from alien life forms residing on the moon. Just a short nine years before the historic moon landing, this film's understanding of the science of space exploration is fantastically simplistic, but this well-made science fiction film holds interest with a strong cast and intriguingly strange events, photographed with great style by John Alton. Ken Clark, Michi Kobi, Tom Conway, John Wengraf, and Robert Montgomery Jr. portray the intrepid scientists.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/xZPAi8RWHdQ8ctKDE2RkxHsvFis.jpg"
+            },
+            {
+                "id": 10941,
+                "title": "Babylon 5: Thirdspace",
+                "release_date": "1998-07-19",
+                "summary": "Susan Ivanova discovers a derelict spaceship in hyperspace. They tow it back to Babylon 5, then strange things start happening. People are being telepathically taken over by aliens from another (third)space.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/lGRkbsA4cqFBjvshNAnCnUg0uyV.jpg"
+            },
+            {
+                "id": 22559,
+                "title": "Aliens of the Deep",
+                "release_date": "2005-01-21",
+                "summary": "James Cameron teams up with NASA scientists to explore the Mid-Ocean Ridge, a submerged chain of mountains that band the Earth and are home to some of the planet's most unique life forms.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/fr93LZw0vilOK42vbWCgtekyMpQ.jpg"
+            },
+            {
+                "id": 18221,
+                "title": "Space Station 3D",
+                "release_date": "2002-04-17",
+                "summary": "Some 220 miles above Earth lies the International Space Station, a one-of-a-kind outer space laboratory that 16 nations came together to build. Get a behind-the-scenes look at the making of this extraordinary structure in this spectacular IMAX film. Viewers will blast off from Florida's Kennedy Space Center and the Baikonur Cosmodrome in Russia for this incredible journey -- IMAX's first-ever space film. Tom Cruise narrates.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3WTMYkXYd1p9ObrrZmxBc179mUr.jpg"
+            },
+            {
+                "id": 118155,
+                "title": "Star Force: Fugitive Alien II",
+                "release_date": "1987-01-01",
+                "summary": "In this second film compiled from two episodes of a Japanese TV serial, Captain Joe, reformed interstellar marauder Ken and the rest of the crew of the Backus-3 set off to destroy an alien race's super-",
+                "poster_url": "https://image.tmdb.org/t/p/w342/43sLrPSRKtH99JGuyYWCzyhmd94.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T02:30:02.751533"
+    },
+    {
+        "username": "manikanta",
+        "prompt": "sci fi space movies",
+        "suggestions": [
+            {
+                "id": 775,
+                "title": "A Trip to the Moon",
+                "release_date": "1902-09-01",
+                "summary": "A Trip to The Moon is a science fiction film from the French film pioneer Georges M\u00e9li\u00e8s from the year 1902 about a trip to the moon.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/9o0v5LLFk51nyTBHZSre6OB37n2.jpg"
+            },
+            {
+                "id": 253312,
+                "title": "Space Station 76",
+                "release_date": "2014-09-19",
+                "summary": "A comedic drama about a group of people (and several robots) living on a space station in a 1970\u2019s-version of the future.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/cToUKM0dDUaLMW4Lgr3QXHlzqdM.jpg"
+            },
+            {
+                "id": 38268,
+                "title": "The War in Space",
+                "release_date": "1977-12-17",
+                "summary": "Earth is attacked by alien spacecraft from Venus. But a Japanese scientist has constructed a space craft, the Gohten, with which he may save humanity.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3HRIBpaeEkoNyVYEw4rMg1avQiY.jpg"
+            },
+            {
+                "id": 95758,
+                "title": "The Sci",
+                "release_date": "Unknown Date",
+                "summary": "Fi Boys, 2006-04-27 - Legendary all-stars of cinema bring to life the evolution of science-fiction and special effects films from the wild and funny days of B-movies to blockbusters that have captured the world's imagination.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/aH9En7bMWKhMG2CsLxb4F7DCuFN.jpg"
+            },
+            {
+                "id": 686,
+                "title": "Contact",
+                "release_date": "1997-07-11",
+                "summary": "Contact is a science fiction film about an encounter with alien intelligence.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg"
+            },
+            {
+                "id": 9663,
+                "title": "Starman",
+                "release_date": "1984-12-13",
+                "summary": "An alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona. The government tries to stop them.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg"
+            },
+            {
+                "id": 18221,
+                "title": "Space Station 3D",
+                "release_date": "2002-04-17",
+                "summary": "Some 220 miles above Earth lies the International Space Station, a one-of-a-kind outer space laboratory that 16 nations came together to build.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3WTMYkXYd1p9ObrrZmxBc179mUr.jpg"
+            },
+            {
+                "id": 308063,
+                "title": "The Visit: An Alien Encounter",
+                "release_date": "2015-01-26",
+                "summary": "\u201cThis film documents an event that has never taken place\u2026\u201d With unprecedented access to the United Nations\u2019 Office for Outer Space Affairs, leading space scientists and space agencies, The Visit explores humans\u2019 first encounter with alien intelligent life and thereby humanity itself.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/5BL9QUSlIBlNneqRmN9RyeMRW0I.jpg"
+            },
+            {
+                "id": 30416,
+                "title": "Stanley Kubrick: A Life in Pictures",
+                "release_date": "2001-05-02",
+                "summary": "With commentary from Hollywood stars, outtakes from his movies and footage from his youth, this documentary looks at Stanley Kubrick's life and films.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/qfRE3xVkXhddyBFizxbHl0qbl7h.jpg"
+            },
+            {
+                "id": 61702,
+                "title": "12 to the Moon",
+                "release_date": "1960-06-10",
+                "summary": "A group of twelve international scientists are the first to land on the moon.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/xZPAi8RWHdQ8ctKDE2RkxHsvFis.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T02:42:36.314927"
+    },
+    {
+        "username": "user2",
+        "prompt": "Give me movie recommendations based on my preferences",
+        "suggestions": [
+            {
+                "id": 67083,
+                "title": "BaadAsssss Cinema",
+                "release_date": "2002-01-01",
+                "summary": "With archive film clips and interviews, this brief look at a frequently overlooked historical period of filmmaking acts as an introduction rather than a complete record.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/f3kNL2XdDm6HVHCxWxVkpuc7aw4.jpg"
+            },
+            {
+                "id": 208947,
+                "title": "Get Ready",
+                "release_date": "1999-01-01",
+                "summary": "Found footage from a feature film. From an idyllic scene at the sea Tscherkassky moves to a speedy car driving by night. The radical movement of objects, bodies and senses illustrates the power of cinema.",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 11216,
+                "title": "Cinema Paradiso",
+                "release_date": "1988-11-17",
+                "summary": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg"
+            },
+            {
+                "id": 171357,
+                "title": "Jonathan Rosenbaum, Present",
+                "release_date": "2013-02-27",
+                "summary": "A portrait of the influential American film critic.",
+                "poster_url": "No poster found"
+            },
+            {
+                "id": 147264,
+                "title": "The Outsider",
+                "release_date": "2005-12-04",
+                "summary": "Nicholas Jarecki follows director James Toback on the 12-day shoot of his thriller, When Will I Be Loved -- a movie made without a script or distribution deal.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/4WLKqsfofOe65BiAxUNLuCC7hC3.jpg"
+            },
+            {
+                "id": 139998,
+                "title": "Supporting Characters",
+                "release_date": "2012-01-23",
+                "summary": "Two New York film editors balance their personal relationships while reworking a movie in crisis.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/rSAfIqMTRwEsW51baMXaNK5i2fg.jpg"
+            },
+            {
+                "id": 13532,
+                "title": "Fanboys",
+                "release_date": "2009-02-06",
+                "summary": "In 1999, Star Wars fanatics take a cross-country trip to George Lucas' Skywalker Ranch so their dying friend can see a screening of The Phantom Menace before its release.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/fitksX4J3xfBjT38YgDUXOlBkHk.jpg"
+            },
+            {
+                "id": 190940,
+                "title": "Bombay Talkies",
+                "release_date": "2013-05-03",
+                "summary": "One hundred years of Hindi cinema is celebrated in four short stories showcasing the power of film.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/jToHRUGY86MVkloVFgKVD090j90.jpg"
+            },
+            {
+                "id": 45514,
+                "title": "8",
+                "release_date": "2008-10-23",
+                "summary": "8 shorts centered around 8 themes directed by 8 famous film directors involved and sharing their opinion on progress, on the set-backs and the challenges our planet faces today.",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 25428,
+                "title": "I Love Your Work",
+                "release_date": "2003-10-05",
+                "summary": "A fictional movie star, Gray Evans, goes through the disintegration of his marriage, his gradual mental breakdown, and his increasing obsession with a young film student who reminds Gray of his own life before becoming famous.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/eEHWma4acEcP0byL2a7h9MJxB57.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T03:02:01.619642"
+    },
+    {
+        "username": "user3",
+        "prompt": "Give me sci-fi action movies that involve space exploration",
+        "suggestions": [
+            {
+                "id": 157336,
+                "title": "Interstellar",
+                "release_date": "2014-11-05",
+                "summary": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+            },
+            {
+                "id": 10941,
+                "title": "Babylon 5: Thirdspace",
+                "release_date": "1998-07-19",
+                "summary": "Susan Ivanova discovers a derelict spaceship in hyperspace. They tow it back to Babylon 5, then strange things start happening. People are being telepathically taken over by aliens from another (third)space.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/lGRkbsA4cqFBjvshNAnCnUg0uyV.jpg"
+            },
+            {
+                "id": 98355,
+                "title": "The Space Movie",
+                "release_date": "1980-11-17",
+                "summary": "1969's Apollo 11 mission to the moon is highlighted in this tribute to the history of the United States' space program.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/6NIgiiU7hbC3I3yoPPMpJMEHqQs.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T03:08:04.754014"
+    },
+    {
+        "username": "user3",
+        "prompt": "Give me light hearted romantic comedy films",
+        "suggestions": [
+            {
+                "id": 263105,
+                "title": "Boy Meets Girl",
+                "release_date": "2015-02-06",
+                "summary": "Boy Meets Girl is a funny, tender, sex positive romantic comedy that explores what it means to be a real man or woman, and how important it is to live a courageous life not letting fear stand in the way of going after your dreams",
+                "poster_url": "https://image.tmdb.org/t/p/w342/sxgQDPNkky07l1bv9g8AyoB4jJp.jpg"
+            },
+            {
+                "id": 61552,
+                "title": "Julietta",
+                "release_date": "2001-09-06",
+                "summary": "A dramatic teenage love story set against the backdrop of the Berlin Love Parade",
+                "poster_url": "https://image.tmdb.org/t/p/w342/521PO2MA55EhDyeNnB7ZzQUoEV5.jpg"
+            },
+            {
+                "id": 1934,
+                "title": "Shakespeare in Love",
+                "release_date": "1998-12-11",
+                "summary": "Young Shakespeare is forced to stage his latest comedy, \"Romeo and Ethel, the Pirate's Daughter,\" before it's even written. When a lovely noblewoman auditions for a role, they fall into forbidden love -- and his play finds a new life (and title). As their relationship progresses, Shakespeare's comedy soon transforms into tragedy",
+                "poster_url": "https://image.tmdb.org/t/p/w342/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg"
+            },
+            {
+                "id": 2288,
+                "title": "Closer",
+                "release_date": "2004-12-01",
+                "summary": "A witty, romantic, and very dangerous love story about chance meetings, instant attractions, and casual betrayals. Two couples disintegrate when they begin destructive adulterous affairs with each other",
+                "poster_url": "https://image.tmdb.org/t/p/w342/fGGaokx4k00S0J603VG53Qlr9jz.jpg"
+            },
+            {
+                "id": 31342,
+                "title": "The Love Letter",
+                "release_date": "1999-05-21",
+                "summary": "A romantic comedy about a mysterious love letter that turns a sleepy new england town upside down",
+                "poster_url": "https://image.tmdb.org/t/p/w342/7w8QCvKDFn1cJ3sW3RGWcwlitgX.jpg"
+            },
+            {
+                "id": 31503,
+                "title": "My Boyfriend's Back",
+                "release_date": "1993-08-06",
+                "summary": "Missy McCloud is the most beautiful girl in school and Johnny Dingle has been in love with her for years. One night, Johnny is killed trying to win her over, and soon he comes back from the dead, and wins Missy's heart",
+                "poster_url": "https://image.tmdb.org/t/p/w342/euXyMbBT2QaxiYZf1jJrsa5yGon.jpg"
+            },
+            {
+                "id": 73775,
+                "title": "The Quiet Love",
+                "release_date": "2005-11-22",
+                "summary": "Two very different love stories cross each other in warm and magical way. A humanistic and yet mysterious film about love and death near the German/Danish border",
+                "poster_url": "https://image.tmdb.org/t/p/w342/fnAbw8xz6x78f0wXJidti3hQhZd.jpg"
+            },
+            {
+                "id": 20493,
+                "title": "Love Story 2050",
+                "release_date": "2008-07-04",
+                "summary": "No overview found",
+                "poster_url": "https://image.tmdb.org/t/p/w342/rBQ6MeIKHqD67JJSryBzlYu3nUz.jpg"
+            },
+            {
+                "id": 89453,
+                "title": "Love",
+                "release_date": "2005-04-21",
+                "summary": "Told through a looping, non-linear narrative from each of the characters' points of view, the film reconstructs the stories of a Yugoslav hit man, his former lover and her police officer boyfriend, as their paths cross in New York",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3v6Bn9awDGOgANbDFCgZLw6RODJ.jpg"
+            },
+            {
+                "id": 112200,
+                "title": "Thanks for Sharing",
+                "release_date": "2012-09-07",
+                "summary": "A romantic comedy that brings together three disparate characters who are learning to face a challenging and often",
+                "poster_url": "https://image.tmdb.org/t/p/w342/qSf3mmkjxohgnA8ZvhBQqTTBaWx.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T03:08:43.852672"
+    },
+    {
+        "username": "user3",
+        "prompt": "Give me sci-fi thriller movies with space exploration",
+        "suggestions": [
+            {
+                "id": 147264,
+                "title": "The Outsider",
+                "release_date": "2005-12-04",
+                "summary": "Nicholas Jarecki follows director James Toback on the 12-day shoot of his thriller, When Will I Be Loved -- a movie made without a script or distribution deal.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/4WLKqsfofOe65BiAxUNLuCC7hC3.jpg"
+            },
+            {
+                "id": 297173,
+                "title": "The Expedition, nan",
+                "release_date": "Unknown Date",
+                "summary": "A Documentary crew entered an asylum to shoot a documentary on the place on Halloween night 2004. Several mysterious things occurred throughout the night leading up to a missing crew member the following morning.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/bXK7iFERKrkfeooqUWQCsGs9h13.jpg"
+            },
+            {
+                "id": 10941,
+                "title": "Babylon 5: Thirdspace",
+                "release_date": "1998-07-19",
+                "summary": "Susan Ivanova discovers a derelict spaceship in hyperspace. They tow it back to Babylon 5, then strange things start happening. People are being telepathically taken over by aliens from another (third)space.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/lGRkbsA4cqFBjvshNAnCnUg0uyV.jpg"
+            },
+            {
+                "id": 157336,
+                "title": "Interstellar",
+                "release_date": "2014-11-05",
+                "summary": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+            },
+            {
+                "id": 308063,
+                "title": "The Visit: An Alien Encounter",
+                "release_date": "2015-01-26",
+                "summary": "\u201cThis film documents an event that has never taken place\u2026\u201d With unprecedented access to the United Nations\u2019 Office for Outer Space Affairs, leading space scientists and space agencies, The Visit explores humans\u2019 first encounter with alien intelligent life and thereby humanity itself. \u201cOur scenario begins with the arrival. Your arrival.\u201d",
+                "poster_url": "https://image.tmdb.org/t/p/w342/5BL9QUSlIBlNneqRmN9RyeMRW0I.jpg"
+            },
+            {
+                "id": 830,
+                "title": "Forbidden Planet",
+                "release_date": "1956-03-15",
+                "summary": "Captain Adams and the crew of the Starship C57D fly towards planet Altair 4 in search for the Bellerphon spaceship that has been missing for twenty years. To their surprise they are already being expected. A classic science fiction film from 1957 starring Leslie Nielsen.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg"
+            },
+            {
+                "id": 1957,
+                "title": "The 27th Day",
+                "release_date": "1957-01-07",
+                "summary": "Five individuals from five nations, including the \"Superpowers,\" USA, USSR, and China, suddenly find themselves on an alien spacecraft. An alien gives each a container holding capsules. No power on earth can open a given container except a mental command from the person to whom it is given. Each person has been provided with the power of life and death.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/yAfXnB6B69iM8KiWwzGulCXF4Mo.jpg"
+            },
+            {
+                "id": 354282,
+                "title": "Science Fiction Volume One: The Osiris Child",
+                "release_date": "2017-08-31",
+                "summary": "Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3sx69bH2n2tgvknvq2VROJ6lEXS.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T03:14:24.741623"
+    },
+    {
+        "username": "user3",
+        "prompt": "Give me sci-fi thriller movies with space exploration",
+        "suggestions": [
+            {
+                "id": 31280,
+                "title": "Fire Maidens of Outer Space",
+                "release_date": "1956-07-01",
+                "summary": "An astronaut and crew land on Jupiter's 13th moon and find a monster and women from Atlantis.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/w8Wo5URjEVIzVmXR2qwEWuSkAOl.jpg"
+            },
+            {
+                "id": 289318,
+                "title": "Mars",
+                "release_date": "1968-01-01",
+                "summary": "Educational science film and science-fiction intersect as it explores physical conditions on planet Mars, the possibility of life, Martian canals, and exploration.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/1veYrCzeDzM5boY1nIEHQmQCqaX.jpg"
+            },
+            {
+                "id": 9755,
+                "title": "Bloodsuckers",
+                "release_date": "2005-07-30",
+                "summary": "Intergalactic vampire hunters in a \"Buffy\" meets \"Star Trek\" in a \"Mad Max\" world setting.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/jvcTgJIGNtDTUo4Rks2LMKd8EdC.jpg"
+            },
+            {
+                "id": 354282,
+                "title": "Science Fiction Volume One: The Osiris Child",
+                "release_date": "2017-08-31",
+                "summary": "Set in the future during interplanetary colonization, an unlikely pair race against a global crisis and confront inner monsters.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3sx69bH2n2tgvknvq2VROJ6lEXS.jpg"
+            },
+            {
+                "id": 208947,
+                "title": "Get Ready",
+                "release_date": "1999-01-01",
+                "summary": "Found footage from a feature film showcasing the power of cinema through radical movement of objects and senses.",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 297173,
+                "title": "The Expedition, nan",
+                "release_date": "Unknown Date",
+                "summary": "Documentary crew enters an asylum on Halloween night in 2004, leading to mysterious occurrences and a missing crew member.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/bXK7iFERKrkfeooqUWQCsGs9h13.jpg"
+            },
+            {
+                "id": 109428,
+                "title": "Evil Dead",
+                "release_date": "2013-04-05",
+                "summary": "A reboot and continuation of the Evil Dead series where Mia and friends summon dormant demons at a remote cabin.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg"
+            },
+            {
+                "id": 3065,
+                "title": "Mystery Science Theater 3000: The Movie",
+                "release_date": "1996-04-19",
+                "summary": "Dr. Clayton Forrester sends Mike Nelson and robots a film to torment them, \"This Island Earth,\" in a scheme for global domination.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/tlakU3uwNiUgd7aOlb2RoAsGTnY.jpg"
+            },
+            {
+                "id": 95758,
+                "title": "The Sci",
+                "release_date": "Unknown Date",
+                "summary": "Fi Boys, 2006-04-27 - Legendary cinema all-stars bring to life the evolution of science-fiction and special effects films from B-movies to blockbusters.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/aH9En7bMWKhMG2CsLxb4F7DCuFN.jpg"
+            },
+            {
+                "id": 55215,
+                "title": "Dead Space: Aftermath",
+                "release_date": "2010-12-31",
+                "summary": "An animated film bridging the storyline between the video games Dead Space and Dead Space 2 through the perspective of four survivors.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/a8P3hJqmf03HgEVJRKHVCDIEtns.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T03:16:29.958663"
+    },
+    {
+        "username": "asdf",
+        "prompt": "Give me sci-fi action movies with space exploration",
+        "suggestions": [
+            {
+                "id": 208947,
+                "title": "Get Ready",
+                "release_date": "1999-01-01",
+                "summary": "Found footage from a feature film. From an idyllic scene at the sea Tscherkassky moves to a speedy car driving by night. The radical movement of objects, bodies and senses illustrates the power of cinema.",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 55215,
+                "title": "Dead Space: Aftermath",
+                "release_date": "2010-12-31",
+                "summary": "The End was only the Beginning. The year is 2509 and not only has Earth lost contact with the Ishimura and Isaac Clarke, but now also the USG O'Bannon, the first responder ship sent to rescue them. Four crew members of the O'Bannon have survived. But what happened to the rest of the crew? What were they doing? What secrets are they keeping? All to be revealed...in the Aftermath! --- Dead Space: Aftermath is a fast-paced, horrifying thrill ride told through the perspective of the four survivors by several renowned international directors. Dead Space: Aftermath is an animated film that bridges the storyline between the video games Dead Space and Dead Space 2.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/a8P3hJqmf03HgEVJRKHVCDIEtns.jpg"
+            },
+            {
+                "id": 14907,
+                "title": "Alien Apocalypse",
+                "release_date": "2005-03-26",
+                "summary": "An astronaut doctor Ivan Hood and his fellow astronaut Kelly return from their mission in space to find the world has been taken over by aliens. Now Dr. Ivan Hood and Kelly must lead a revolution to free the human slaves from their alien masters.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/kMCLTS7tjfzYpd6JAiLYs07ZLd1.jpg"
+            },
+            {
+                "id": 365942,
+                "title": "The Space Between Us",
+                "release_date": "2017-01-26",
+                "summary": "A young man raised by scientists on Mars returns to Earth to find his father.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg"
+            },
+            {
+                "id": 38268,
+                "title": "The War in Space",
+                "release_date": "1977-12-17",
+                "summary": "Earth is attacked by alien spacecraft from Venus. But a Japanese scientist has constructed a space craft, the Gohten, with which he may save humanity.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3HRIBpaeEkoNyVYEw4rMg1avQiY.jpg"
+            },
+            {
+                "id": 107104,
+                "title": "Beyond the Rising Moon",
+                "release_date": "1988-05-14",
+                "summary": "An alien spaceship is being sought by various factions on Earth. A female cyborg and a rogue trader team up to stop evil forces from taking over the ship.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/t1PZWUK6cnVV09TF5jUez37ZYOS.jpg"
+            },
+            {
+                "id": 830,
+                "title": "Forbidden Planet",
+                "release_date": "1956-03-15",
+                "summary": "Captain Adams and the crew of the Starship C57D fly towards planet Altair 4 in search for the Bellerphon spaceship that has been missing for twenty years. To their surprise they are already being expected. A classic science fiction film from 1957 starring Leslie Nielsen.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T03:20:42.578006"
+    },
+    {
+        "username": "asdf",
+        "prompt": "Give me romantic comedy films",
+        "suggestions": [
+            {
+                "id": 316183,
+                "title": "What Other Couples Do",
+                "release_date": "2013-01-01",
+                "summary": "Four couples gather for an L.A. dinner party and decide to play kissing game \"Seven Minutes in Heaven.\"",
+                "poster_url": "https://image.tmdb.org/t/p/w342/gHMsM7L5Y3j7hr2PpTLLNjQec2n.jpg"
+            },
+            {
+                "id": 51828,
+                "title": "One Day",
+                "release_date": "2011-03-02",
+                "summary": "A romantic comedy centered on Dexter and Emma, who first meet during their graduation in 1988 and proceed to keep in touch regularly.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/iWPwEkIDAihT5EDPZxFmhtyVrtj.jpg"
+            },
+            {
+                "id": 117534,
+                "title": "E A\u00ed... Comeu?",
+                "release_date": "2012-06-22",
+                "summary": "The real first comedy about love.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/be7n1ytxXUMCHXXOpwfjoIAeHhy.jpg"
+            },
+            {
+                "id": 58887,
+                "title": "When Harry Tries to Marry",
+                "release_date": "2011-04-22",
+                "summary": "An Indian-American surprises his family when he announces his desire for an arranged marriage with an Indian woman.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/ntHO4S2AQ3tCvhFmYMek8fzJHpi.jpg"
+            },
+            {
+                "id": 31503,
+                "title": "My Boyfriend's Back",
+                "release_date": "1993-08-06",
+                "summary": "A young man comes back from the dead to win the heart of the most beautiful girl in school.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/euXyMbBT2QaxiYZf1jJrsa5yGon.jpg"
+            },
+            {
+                "id": 1934,
+                "title": "Shakespeare in Love",
+                "release_date": "1998-12-11",
+                "summary": "Young Shakespeare falls into forbidden love while staging his latest comedy.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg"
+            },
+            {
+                "id": 12708,
+                "title": "That Touch of Mink",
+                "release_date": "1962-06-14",
+                "summary": "A rich businessman and a young woman are attracted to each other, but he only wants an affair while she wants to save her virginity for marriage.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/eEG29x9cljGKL2GPmRK9IByyL9e.jpg"
+            },
+            {
+                "id": 95744,
+                "title": "La monta\u00f1a rusa",
+                "release_date": "2012-03-15",
+                "summary": "A romantic and sentimental comedy about sex, love, and complicated relationships.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wvNvaPnfu6QlD5gKDsXnGNsCMcc.jpg"
+            },
+            {
+                "id": 316067,
+                "title": "Misery Loves Comedy",
+                "release_date": "2015-01-23",
+                "summary": "Over fifty famous American and Canadian funny people share insights on the relationship between misery and comedy.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wjYla0vnZ3HtzAS6JxINNrZ3wY5.jpg"
+            },
+            {
+                "id": 126314,
+                "title": "Final Cut: Ladies and Gentlemen",
+                "release_date": "2012-02-04",
+                "summary": "An archetypical love story cut from 500 classics from all around the world.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/eoMO14iZVBTILw1BppQu6ZHaJdA.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T03:21:14.486894"
+    },
+    {
+        "username": "asdfg",
+        "prompt": "space exploration movies with mind blowing endings",
+        "suggestions": [
+            {
+                "id": 208947,
+                "title": "Get Ready",
+                "release_date": "1999-01-01",
+                "summary": "Found footage from a feature film. From an idyllic scene at the sea Tscherkassky moves to a speedy car driving by night. The radical movement of objects, bodies and senses illustrates the power of cinema. \u2014Viennale",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 137669,
+                "title": "To Boldly Flee",
+                "release_date": "2012-10-20",
+                "summary": "After discovering a mysterious entity near the planet, The Nostalgia Critic is placed under house arrest by the government. Together with fellow reviewers, they convert the Critic's house into an intergalactic cruiser and blast off into space to see what's up for themselves.",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 433878,
+                "title": "The Mars Generation",
+                "release_date": "2017-01-20",
+                "summary": "Aspiring teenage astronauts reveal that a journey to Mars is closer than you think.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/czL0pSnPEEJJsjrJzg8q86ALvnE.jpg"
+            },
+            {
+                "id": 117036,
+                "title": "Synthetic Pleasures",
+                "release_date": "1995-09-13",
+                "summary": "Conceived as an electronic road movie, this documentary investigates cutting edge technologies and their influence on our culture as we approach the 21st century.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/xgqqmCrPGBJWsOQ3Lp9DxGC0D37.jpg"
+            },
+            {
+                "id": 72809,
+                "title": "Cosmic Journey",
+                "release_date": "1936-01-21",
+                "summary": "Soviet cinematographers created a progressively realistic image of a journey to the moon in these early days of special effects.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/8JDUWGNeN4s2bV0yNzL6fIZ9X39.jpg"
+            },
+            {
+                "id": 110650,
+                "title": "Outer Space",
+                "release_date": "1999-01-01",
+                "summary": "A premonition of a horror film, lurking danger: A house - at night, slightly tilted in the camera's view, eerily lit - surfaces from the pitch black, then sinks back into it again.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/A72tOxS7cvdNwNqIw0uN4ElIeQ6.jpg"
+            },
+            {
+                "id": 17210,
+                "title": "National Geographic: Journey to the Edge of the Universe",
+                "release_date": "2008-12-06",
+                "summary": "In one single, epic camera move we journey from Earth's surface to the outermost reaches of the universe on a grand tour of the cosmos.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/14mR0hzWv9gU1oU61hBbCRyo4QE.jpg"
+            },
+            {
+                "id": 18221,
+                "title": "Space Station 3D",
+                "release_date": "2002-04-17",
+                "summary": "Some 220 miles above Earth lies the International Space Station, a one-of-a-kind outer space laboratory that 16 nations came together to build.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3WTMYkXYd1p9ObrrZmxBc179mUr.jpg"
+            },
+            {
+                "id": 98355,
+                "title": "The Space Movie",
+                "release_date": "1980-11-17",
+                "summary": "1969's Apollo 11 mission to the moon is highlighted in this tribute to the history of the United States' space program.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/6NIgiiU7hbC3I3yoPPMpJMEHqQs.jpg"
+            },
+            {
+                "id": 325263,
+                "title": "Journey to Space",
+                "release_date": "2015-02-13",
+                "summary": "A sweeping overview of humanity\u2019s accomplishments in space, as well as our ongoing activities and future plans.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wZIzIV4Ysmm14JusmOzFtcMNRb9.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T13:10:23.031950"
+    },
+    {
+        "username": "asdf",
+        "prompt": "Give me sci-fi action movies with space exploration",
+        "suggestions": [
+            {
+                "id": 38268,
+                "title": "The War in Space",
+                "release_date": "1977-12-17",
+                "summary": "Earth is attacked by alien spacecraft from Venus. But a Japanese scientist has constructed a space craft, the Gohten, with which he may save humanity.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3HRIBpaeEkoNyVYEw4rMg1avQiY.jpg"
+            },
+            {
+                "id": 830,
+                "title": "Forbidden Planet",
+                "release_date": "1956-03-15",
+                "summary": "Captain Adams and the crew of the Starship C57D fly towards planet Altair 4 in search for the Bellerphon spaceship that has been missing for twenty years. To their surprise they are already being expected. A classic science fiction film from 1957 starring Leslie Nielsen.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg"
+            },
+            {
+                "id": 208947,
+                "title": "Get Ready",
+                "release_date": "1999-01-01",
+                "summary": "Found footage from a feature film. From an idyllic scene at the sea Tscherkassky moves to a speedy car driving by night. The radical movement of objects, bodies and senses illustrates the power of cinema.",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 30863,
+                "title": "Mutant Aliens",
+                "release_date": "2002-01-09",
+                "summary": "Mutant Aliens is a wildly humorous yet poignant story about an astronaut, his daughter, and 5 violent, yet sympathetic, alien creatures who seek revenge against a space industry baron.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/f6doYuJsaciPllLKy2VGWGLWXaV.jpg"
+            },
+            {
+                "id": 95758,
+                "title": "The Sci",
+                "release_date": "Unknown Date",
+                "summary": "Fi Boys, 2006-04-27 - Legendary all-stars of cinema bring to life the evolution of science-fiction and special effects films from the wild and funny days of B-movies to blockbusters that have captured the world's imagination.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/aH9En7bMWKhMG2CsLxb4F7DCuFN.jpg"
+            },
+            {
+                "id": 325263,
+                "title": "Journey to Space",
+                "release_date": "2015-02-13",
+                "summary": "A sweeping overview of humanity\u2019s accomplishments in space, as well as our ongoing activities and future plans.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wZIzIV4Ysmm14JusmOzFtcMNRb9.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T13:11:46.520509"
+    },
+    {
+        "username": "mani",
+        "prompt": "Give me sci-fi action movies with space exploration",
+        "suggestions": [
+            {
+                "id": 152,
+                "title": "Star Trek: The Motion Picture",
+                "release_date": "1979-12-06",
+                "summary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg"
+            },
+            {
+                "id": 926,
+                "title": "Galaxy Quest",
+                "release_date": "1999-12-23",
+                "summary": "The stars of a 1970s sci-fi show - now scraping a living through re-runs and sci-fi conventions - are beamed aboard an alien spacecraft. Believing the cast's heroic on-screen dramas are historical documents of real-life adventures, the band of aliens turn to the ailing celebrities for help in their quest to overcome the oppressive regime in their solar system.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/fZXSwgZknp81vmciTb86rw0MejV.jpg"
+            },
+            {
+                "id": 698,
+                "title": "Moonraker",
+                "release_date": "1979-06-26",
+                "summary": "During the transportation of a Space Shuttle a Boeing 747 crashes in the Atlantic Ocean yet when they go to look for the destroyed shuttle it is not there. James Bond investigates the missing mission space shuttle and soon learns that the shuttles owner Hugo Drax wants to kill all of mankind.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg"
+            },
+            {
+                "id": 152,
+                "title": "Star Trek: The Motion Picture",
+                "release_date": "1979-12-06",
+                "summary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg"
+            },
+            {
+                "id": 152,
+                "title": "Star Trek: The Motion Picture",
+                "release_date": "1979-12-06",
+                "summary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg"
+            },
+            {
+                "id": 152,
+                "title": "Star Trek: The Motion Picture",
+                "release_date": "1979-12-06",
+                "summary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg"
+            },
+            {
+                "id": 152,
+                "title": "Star Trek: The Motion Picture",
+                "release_date": "1979-12-06",
+                "summary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg"
+            },
+            {
+                "id": 152,
+                "title": "Star Trek: The Motion Picture",
+                "release_date": "1979-12-06",
+                "summary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg"
+            },
+            {
+                "id": 152,
+                "title": "Star Trek: The Motion Picture",
+                "release_date": "1979-12-06",
+                "summary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T13:13:20.690772"
+    },
+    {
+        "username": "asdf",
+        "prompt": "Give me sci-fi action movies with space exploration",
+        "suggestions": [
+            {
+                "id": 38268,
+                "title": "The War in Space",
+                "release_date": "1977-12-17",
+                "summary": "Earth is attacked by alien spacecraft from Venus. But a Japanese scientist has constructed a space craft, the Gohten, with which he may save humanity.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3HRIBpaeEkoNyVYEw4rMg1avQiY.jpg"
+            },
+            {
+                "id": 154371,
+                "title": "Manhunt in Space",
+                "release_date": "1956-01-01",
+                "summary": "Rocky Jones, Space Ranger fights space pirates over an invisible spaceship.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3xDnCvHvrRWLcy7t7Bw7Bbj3K1k.jpg"
+            },
+            {
+                "id": 31122,
+                "title": "The Starfighters",
+                "release_date": "1964-01-01",
+                "summary": "A young Air Force lieutenant falls in love with fighter planes while his father, a Congressman and war hero, yearns for him to fly heavy bombers.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/oL9iO695oX3sK6B3nsZ6A3xg3bt.jpg"
+            },
+            {
+                "id": 365942,
+                "title": "The Space Between Us",
+                "release_date": "2017-01-26",
+                "summary": "A young man raised by scientists on Mars returns to Earth to find his father.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg"
+            },
+            {
+                "id": 292133,
+                "title": "Battle of the Stars",
+                "release_date": "1978-02-17",
+                "summary": "A spaceship investigates an out-of-control planet and discovers a computer that controls an underground civilization.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/xCHWT7xy9WVHgew6gkOfISIPtFF.jpg"
+            },
+            {
+                "id": 45514,
+                "title": "8",
+                "release_date": "2008-10-23",
+                "summary": "8 shorts centered around 8 themes directed by 8 famous film directors involved and sharing their opinion on progress, on the set-backs and the challenges our planet faces today.",
+                "poster_url": "No poster found (API error)"
+            },
+            {
+                "id": 18221,
+                "title": "Space Station 3D",
+                "release_date": "2002-04-17",
+                "summary": "Some 220 miles above Earth lies the International Space Station, a one-of-a-kind outer space laboratory that 16 nations came together to build. Get a behind-the-scenes look at the making of this extraordinary structure in this spectacular IMAX film.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/3WTMYkXYd1p9ObrrZmxBc179mUr.jpg"
+            },
+            {
+                "id": 253150,
+                "title": "Plastic Galaxy: The Story of Star Wars Toys",
+                "release_date": "2014-01-15",
+                "summary": "Plastic Galaxy explores the ground breaking and breathtaking world of 'Star Wars' toys. Through interviews with former Kenner employees, experts, authors, and collectors, the documentary looks at the toys' history, influence, and the passions they elicit today.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/uJxlQhzz9gYDUvHJ6qaTc166JuZ.jpg"
+            },
+            {
+                "id": 9663,
+                "title": "Starman",
+                "release_date": "1984-12-13",
+                "summary": "An alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona. The government tries to stop them.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg"
+            },
+            {
+                "id": 846,
+                "title": "The X Files",
+                "release_date": "1998-06-19",
+                "summary": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T13:13:50.889981"
+    },
+    {
+        "username": "asdf",
+        "prompt": "I\u2019m feeling sad, suggest silly movies with a light and happy tone",
+        "suggestions": [
+            {
+                "id": 53206,
+                "title": "Happy Days",
+                "release_date": "1978-01-01",
+                "summary": "It is full of joy and kindness, it tells the life of great people, those who love each other with purity, those who share everything and those who care for each other. The music of the movie- which is cheerful when played fast and sorrowful when played gently- is perfect.. Just as perfect as those people in good old times and as the life they represent. The act is so natural that you either find yourself shed tears or laughing as loudly as you can. Every little detail is so fascinating. I do not know what more to say about this film, but it is certainly worth watching again, again and again.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/tNpqrXxHfFptO1N7lBZredY97AG.jpg"
+            },
+            {
+                "id": 31102,
+                "title": "Pollyanna",
+                "release_date": "1960-05-19",
+                "summary": "A young girl comes to an embittered town and confronts its attitude with her determination to see the best in life.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/9lWkRXg35SjUZXLr10ez8DERvRv.jpg"
+            },
+            {
+                "id": 399219,
+                "title": "Happy End",
+                "release_date": "2016-05-19",
+                "summary": "A splendid chain of unlikely encounters. Hunters, a tractor driver, a disco boy, and a corpse.",
+                "poster_url": "https://image.tmdb.org/t/p/w342/4wQwrHASsP6Iz2TW35aSwkR5iuY.jpg"
+            }
+        ],
+        "timestamp": "2025-04-22T13:37:32.163044"
     }
 ]

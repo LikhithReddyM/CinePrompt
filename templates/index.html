@@ -4,30 +4,50 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CinePrompt</title>
+  <title>CinePrompt - Home</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-  <!-- <script defer src="cineprompt.js"></script> -->
-  <script src="{{ url_for('static', filename='cineprompt.js') }}"></script>
+  <!-- <script src="{{ url_for('static', filename='cineprompt.js') }}"></script> -->
 </head>
 <body>
+  <div class="header">
+    <div class="header-content">
+      <h1>CinePrompt</h1>
+      <div class="header-buttons">
+        <a href="{{ url_for('preferences', username=username) }}" class="nav-btn">Preferences</a>
+        <a href="{{ url_for('history') }}" class="nav-btn">History</a>
+        <a href="{{ url_for('logout') }}" class="nav-btn logout-btn">Logout</a>
+      </div>
+    </div>
+  </div>
+
   <div class="container">
-    <h1>Welcome to 🎬 CinePrompt</h1>
-    <p>Your movie intuition starts here.</p>
-    <!-- User name input mandatory -->
-    <input type="text" id="usernameInput" placeholder="Enter your name" required>
-    <!-- Prompt input -->
-    <textarea id="promptInput" placeholder="Type your movie idea or prompt here..."></textarea>
-    <div class="button-row">
-      <button id="submitPrompt">Submit</button>
-      <!-- setting preferences -->
-      <button id="goToPreferences">Customize Preferences</button>
+    <div id="formSection">
+      <h1>Welcome to 🎬 CinePrompt</h1>
+      <p>Your movie intuition starts here.</p>
+      <form id="movieForm">
+        <div class="form-group">
+          <textarea id="userPrompt" placeholder="Describe the kind of movie you're in the mood for..." required></textarea>
+        </div>
+        <button type="submit" class="submit-btn">Get Recommendations</button>
+      </form>
+      <div class="preferences-link">
+        <a href="{{ url_for('preferences', username=username) }}" class="preferences-btn">Customize Preferences</a>
+      </div>
+    </div>
+
+    <div id="loadingSection" class="hidden">
+      <div class="loading-container">
+        <div class="loading-spinner"></div>
+        <p>Finding the perfect movies for you...</p>
+      </div>
     </div>
 
     <div id="successSection" class="hidden">
-      <!-- Success message which needs to be replaced by back-end suggested movies -->
-      <p class="success-message">Awesome!! 🎉</p>
-      <button id="goBackBtn"> Go Back</button>
-    </div> 
+      <h2>Your Movie Recommendations</h2>
+      <div id="recommendations"></div>
+      <button id="newSearch" class="submit-btn">New Search</button>
+    </div>
   </div>
+  <script defer src="{{ url_for('static', filename='cineprompt.js') }}"></script>
 </body>
 </html>

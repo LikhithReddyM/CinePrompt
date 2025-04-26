@@ -1,0 +1,47 @@
+[
+    {
+        "username": "Likhith",
+        "password": "scrypt:32768:8:1$UnKtFt4P185p7Vb7$a19f175ff0aae98827d32e551f73838501a3bc5c86b1170177b2bc82d4e252ca4063b8aa04e689acb073c6d663d242da72036ef4a1e7681606b72e734d279cc3",
+        "user_id": "84309779"
+    },
+    {
+        "username": "Likhith2",
+        "password": "scrypt:32768:8:1$pRqqCgPMY2CO7hNC$7cc6db04f3e068efcfee6ac1afac4330c3b1bc7e943bfb78a65c3fabc474e7733656d04d85edc8efd2f5b4aaf1582476d4e10ccf4f5cb4411b0e07f8050f1b36",
+        "user_id": "31990442"
+    },
+    {
+        "username": "mani",
+        "password": "scrypt:32768:8:1$Tlgvhx87KvYpsHTD$bfa4978bc452d535867618b1afab432fe9ce820d758f4dec8f698bba1a0da1571cd46208f65730d4d1a4aca03d8828719b4e4eb8798b1849670ab0bb7af09bf0",
+        "user_id": "74644956"
+    },
+    {
+        "username": "manikanta",
+        "password": "scrypt:32768:8:1$HCwgEcSNrB3Sz31p$c97a130ca61c2cce428f6d9f37485236f562b01146869bc8d75a6ba903f65bc50ffaec486ef56041d8b13991f7358e257e4d6a27a57474076087c0ed0dc125be",
+        "user_id": "15640259"
+    },
+    {
+        "username": "user",
+        "password": "scrypt:32768:8:1$JXuUyplNQq7exJfj$02a463fce96f4390ecd36f48c7ff1eb98b3dd28d7fad0b266efeb3ccd3b0b190b07891ba43c8e076c5784b7a96758ba381675f61fbe29edabe2b378f7f99e6bd",
+        "user_id": "52381922"
+    },
+    {
+        "username": "user2",
+        "password": "scrypt:32768:8:1$AIJvlhh8bIvXFG2n$b6b025e06f9a13d968f1d442073e08674c8212c801d9dd8ca753ec032c72fba3b1fffad932690444d4f2cbc5467c4d173372cd2e36dbaaaa91b2d71f9dd46466",
+        "user_id": "59878646"
+    },
+    {
+        "username": "user3",
+        "password": "scrypt:32768:8:1$R2xR9nW4n0unbZXX$e1c96200fa3bf2d880b472d964efdf448940b33394a030e723895a2c0d6b658454ed867be3a09b85aa62a10bf3b41aaa5917fcd8f4a366316fdb0325241fe05b",
+        "user_id": "48997095"
+    },
+    {
+        "username": "asdf",
+        "password": "scrypt:32768:8:1$zI1AyZqVE3ED4OOh$b755b3c1c9e748e1c56e9df2701bf35a3260efae5f64a97e2143ab7ef0c75c004f3b0fcadc2e860dc80fa3bf38ddb0e3f265d1155ac9cec23f76c1908608b4b2",
+        "user_id": "36723681"
+    },
+    {
+        "username": "asdfg",
+        "password": "scrypt:32768:8:1$PUmfyxWuoPlYzY5I$fdf8b9c63b8baec2df31e5abf92173aa0c22920a744777ea509305d0c85310bbdbe92e25849e2c31d1938f651164b4bbdfdfef68226c811ef16385130ea92e98",
+        "user_id": "93026524"
+    }
+]

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CinePrompt - History</title>
+    <script defer src="{{ url_for('static', filename='history.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>CinePrompt</h1>
+            <div class="header-buttons">
+                <a href="{{ url_for('home') }}" class="nav-btn">Home</a>
+                <a href="{{ url_for('preferences', username=username) }}" class="nav-btn">Preferences</a>
+                <a href="{{ url_for('logout') }}" class="nav-btn logout-btn">Logout</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Your Prompt History</h2>
+        <div id="historyList" class="history-list">
+            <!-- History items will be populated by JavaScript -->
+        </div>
+    </div>
+</body>
+</html> 

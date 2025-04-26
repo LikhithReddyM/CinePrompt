@@ -1,0 +1,8 @@
+openai==0.28.0
+python-dotenv==1.0.1
+tqdm==4.67.0
+flask==3.0.2
+pandas==2.2.1
+sentence-transformers==2.5.1
+faiss-cpu==1.7.4
+numpy==1.26.4 

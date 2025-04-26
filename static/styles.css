@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #121212;
+    background-color: #000000;
     color: #fff;
     padding: 40px;
     text-align: center;
@@ -13,6 +13,7 @@ body {
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    margin-top: 20px;
   }
 
   #usernameInput {
@@ -96,6 +97,396 @@ body {
   @keyframes fadeIn {
     from { opacity: 0; }
     to   { opacity: 1; }
+  }
+  
+  /* Auth styles */
+  .auth-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #1e1e1e;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  }
+
+  .auth-tabs {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #333;
+  }
+
+  .tab-btn {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background: none;
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: opacity 0.3s;
+    color: #fff;
+  }
+
+  .tab-btn.active {
+    opacity: 1;
+    border-bottom: 2px solid #ff0000;
+    color: #ff0000;
+  }
+
+  .auth-form {
+    display: none;
+  }
+
+  .auth-form.active {
+    display: block;
+  }
+
+  .auth-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ff0000;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .form-group input {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #2a2a2a;
+    color: #ffffff;
+    margin: 0 auto;
+  }
+
+  .form-group input::placeholder {
+    color: #888;
+  }
+
+  .submit-btn {
+    width: 100%;
+    padding: 12px;
+    background: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+
+  .submit-btn:hover {
+    background: #cc0000;
+  }
+
+  .error-message {
+    color: #ff4444;
+    font-size: 14px;
+    margin-top: 5px;
+    text-align: center;
+  }
+  
+  /* Header styles */
+  .header {
+    background-color: #1e1e1e;
+    padding: 15px 0;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  .header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+
+  .header h1 {
+    color: #ff0000;
+    margin: 0;
+    font-size: 24px;
+  }
+
+  .header-buttons {
+    display: flex;
+    gap: 15px;
+  }
+
+  .nav-btn {
+    padding: 8px 15px;
+    background-color: #2a2a2a;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+
+  .nav-btn:hover {
+    background-color: #333;
+  }
+
+  .logout-btn {
+    background-color: #ff0000;
+  }
+
+  .logout-btn:hover {
+    background-color: #cc0000;
+  }
+  
+  /* Autocomplete styles */
+  .autocomplete-container {
+    position: relative;
+    width: 100%;
+  }
+
+  .suggestions-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #2a2a2a;
+    border: 1px solid #333;
+    border-radius: 4px;
+    max-height: 200px;
+    overflow-y: auto;
+    display: none;
+    z-index: 1000;
+  }
+
+  .suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #333;
+    transition: background-color 0.2s;
+  }
+
+  .suggestion-item:hover {
+    background-color: #333;
+  }
+
+  .suggestion-item .title {
+    font-weight: bold;
+    color: #fff;
+  }
+
+  .suggestion-item .original-title {
+    font-size: 0.9em;
+    color: #888;
+    margin-left: 5px;
+  }
+
+  .suggestion-item .release-date {
+    font-size: 0.8em;
+    color: #666;
+    display: block;
+    margin-top: 3px;
+  }
+
+  .selected-movies {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .selected-movie {
+    background: #333;
+    padding: 8px 12px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .selected-movie .remove-btn {
+    background: none;
+    border: none;
+    color: #ff0000;
+    cursor: pointer;
+    padding: 0;
+    font-size: 1.2em;
+  }
+
+  .selected-movie .remove-btn:hover {
+    color: #cc0000;
+  }
+  
+  .history-list {
+    margin: 20px auto;
+    width: 80%;
+  }
+
+  .history-item {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 1px solid #dee2e6;
+  }
+
+  .history-item:hover {
+    background-color: #e9ecef;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .history-item.expanded {
+    background-color: #fff;
+  }
+
+  .history-prompt {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: #212529;
+  }
+
+  .history-timestamp {
+    font-size: 0.9em;
+    color: #6c757d;
+    margin-bottom: 10px;
+  }
+
+  .history-suggestions {
+    display: none;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #dee2e6;
+  }
+
+  .history-item.expanded .history-suggestions {
+    display: block;
+  }
+
+  .history-movie-item {
+    padding: 8px 0;
+    color: #495057;
+    border-bottom: 1px solid #e9ecef;
+  }
+
+  .history-movie-item:last-child {
+    border-bottom: none;
+  }
+
+  .no-history {
+    text-align: center;
+    color: #6c757d;
+    font-style: italic;
+    padding: 20px;
+  }
+
+  .error {
+    text-align: center;
+    color: #dc3545;
+    padding: 20px;
+  }
+  
+  /* --- Movie Recommendation Row Styles --- */
+  #recommendations {
+    margin-top: 30px;
+    display: flex; /* Use flexbox for rows */
+    flex-direction: column; /* Stack rows vertically */
+    gap: 20px; /* Spacing between rows */
+  }
+
+  .movie-row {
+    display: flex; /* Arrange poster and details side-by-side */
+    align-items: flex-start; /* Align items to the top */
+    background-color: #2a2a2a; /* Dark card background */
+    border-radius: 8px;
+    padding: 15px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    overflow: hidden; /* Ensure content stays within rounded corners */
+  }
+
+  .movie-poster {
+    width: 100px; /* Fixed width for poster */
+    height: 150px; /* Fixed height for poster */
+    object-fit: cover; /* Cover the area, cropping if needed */
+    border-radius: 4px;
+    margin-right: 15px;
+    flex-shrink: 0; /* Prevent image from shrinking */
+    background-color: #1e1e1e; /* Placeholder background */
+  }
+
+  .movie-details {
+    flex: 1; /* Allow details to take remaining space */
+    min-width: 0; /* Prevent details from overflowing */
+  }
+
+  .movie-title {
+    color: #ff0000; /* Accent color for title */
+    font-size: 1.2em;
+    margin-top: 0;
+    margin-bottom: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; /* Add ellipsis if title is too long */
+  }
+
+  .movie-date {
+    font-size: 0.9em;
+    color: #aaa; /* Lighter color for date */
+    margin-bottom: 10px;
+  }
+
+  .movie-summary {
+    font-size: 1em;
+    color: #ccc; /* Slightly lighter color for summary */
+    line-height: 1.4;
+    /* Optional: Limit summary lines */
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Show max 3 lines */
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+  }
+
+  .no-results {
+    color: #aaa;
+    font-style: italic;
+  }
+  /* --- End Movie Recommendation Styles --- */
+  
+  .loading-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .loading-spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .loading-container p {
+    color: #666;
+    font-size: 1.1rem;
+    margin-top: 1rem;
   }
   
   
