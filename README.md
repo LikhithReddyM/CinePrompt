@@ -61,3 +61,7 @@ python app.py
 ## Application Demo
 
 https://www.youtube.com/watch?v=rBtBn-MKG14
+
+![CinePrompt_Demo](https://github.com/user-attachments/assets/07632c2e-82a2-4951-a1f1-4482ffc351aa)
+
+![CinePrompt_Demo](https://github.com/user-attachments/assets/d2079cd1-ea79-49a5-871f-5a518a3ec8e4)
