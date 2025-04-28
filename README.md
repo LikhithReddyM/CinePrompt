@@ -3,6 +3,8 @@
 This is a movie recommendation system that uses RAG (Retrieval-Augmented Generation) and LLM to provide personalized movie recommendations based on user preferences.
 
 ## Setup Instructions
+After cloning this repository, please download the `saved_data` folder from the following Google Drive link: https://drive.google.com/drive/folders/1ij0tpnAsUv6GqkWCGxhn3DxntN8vzInr
+Note: Due to GitHub's storage limitations, the saved_data directory is provided separately via Google Drive
 
 1. Install the required dependencies:
 ```bash
@@ -49,4 +51,6 @@ python app.py
 - sentence-transformers
 - faiss-cpu
 - llama-cpp-python
-- numpy 
+- numpy
+
+## Flowchart
