@@ -55,3 +55,5 @@ python app.py
 - numpy
 
 ## Flowchart
+
+<img width="979" alt="flowchart" src="https://github.com/user-attachments/assets/9babbd79-e60f-403c-915f-2c0bb7f9d515" />
