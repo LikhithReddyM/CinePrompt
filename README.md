@@ -1,6 +1,6 @@
-## CinePrompt - Personalized Movie Recommender with RAG and LLM's
+## CinePrompt - Personalized Prompt based Movie Recommender with RAG and LLM's
 
-This is a movie recommendation system that uses RAG (Retrieval-Augmented Generation) and LLM to provide personalized movie recommendations based on user preferences.
+This is a movie recommendation system that uses RAG (Retrieval-Augmented Generation) and LLM to provide personalized movie recommendations based on user prompts and their preferences.
 
 ## Setup Instructions
 After cloning this repository, please download the `saved_data` folder from the following Google Drive link: https://drive.google.com/drive/folders/1ij0tpnAsUv6GqkWCGxhn3DxntN8vzInr
